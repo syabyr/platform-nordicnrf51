@@ -34,7 +34,7 @@
   ],
   "name": "BL600-SA Development Kit",
   "upload": {
-    "maximum_ram_size": 32768,
+    "maximum_ram_size": 16384,
     "maximum_size": 262144,
     "protocol": "jlink",
     "protocols": [
@@ -46,6 +46,6 @@
       "mbed"
     ]
   },
-  "url": "https://www.nordicsemi.com/Software-and-Tools/Development-Kits/nRF51-DK",
-  "vendor": "Nordic"
+  "url": "https://www.lairdconnect.com/wireless-modules/bluetooth-modules/bluetooth-42-and-40-modules/bl600-series-bluetooth-module",
+  "vendor": "Laird"
 }
