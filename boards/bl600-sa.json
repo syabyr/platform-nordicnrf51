@@ -20,7 +20,7 @@
     "default_tools": [
       "jlink"
     ],
-    "jlink_device": "nRF51802_xxAA",
+    "jlink_device": "nRF51822_xxAA",
     "onboard_tools": [
       "cmsis-dap",
       "jlink"
